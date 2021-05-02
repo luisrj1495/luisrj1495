@@ -1,6 +1,6 @@
 ### Hi there, I'm Luis 👋
 
-[![Website](https://img.shields.io/website?label=luchoo.co.com&style=for-the-badge&url=https://luchoo.co/)](https://luchoo.co/)
+[![Website](https://img.shields.io/website?label=luchoo.co&style=for-the-badge&url=https://luchoo.co/)](https://luchoo.co/)
 
 ## I'm a Engineer and Developer!
 
